@@ -1,3 +1,0 @@
-850
-EternalGoal:!@#Study the scriptures!@#Study for at least 10 minutes!@#50!@#2
-ChecklistGoal:!@#Attend the temple!@#Attend and perform any ordinance!@#50!@#3!@#500!@#3

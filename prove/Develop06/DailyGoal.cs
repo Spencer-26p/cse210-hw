@@ -17,8 +17,6 @@ class DailyGoal : Goal
         DateTime latestTime = _lastEvent.AddDays(2);
         DateTime earliestTime = _lastEvent.AddHours(16);
         DateTime currentTime = DateTime.Now;
-        Console.WriteLine($"Current time: {currentTime}");
-        Console.WriteLine($"Earliest time: {earliestTime}");
         if (currentTime >= latestTime)
         {
             _streak = 0;
