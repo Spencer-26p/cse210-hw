@@ -8,7 +8,8 @@ to keep that goal in the list.
 
 3.Can't get additional points for a goal that is already completed.
 
-4. Added daily goals. Daily goals keep track of what time 
+4. Added daily goals. Daily goals keep a tally of activities and adds a streak as long as the time since the last event
+does not exceed 2 days. Each streak adds a multiplier of points for the activity by a (rounded) 10%.
 */
 class Program
 {

@@ -181,6 +181,7 @@ class GoalManager
     }
     public void LoadGoals()
     {
+        _goals.Clear();
         string fileName = "";
         Console.WriteLine("What is the name of the file?");
         fileName = Console.ReadLine();
