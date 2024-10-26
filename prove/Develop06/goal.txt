@@ -1,0 +1,5 @@
+983
+EternalGoal:!@#Study the scriptures!@#Study for at least 10 minutes!@#50!@#3
+ChecklistGoal:!@#Attend the temple!@#Attend and perform any ordinance!@#50!@#3!@#500!@#3
+SimpleGoal:!@#Give a talk!@#Give a talk in sacrament meeting!@#50!@#True
+DailyGoal:!@#Pray daily!@#Pray every day in the morning!@#10!@#10/26/2024 3:21:15 PM!@#3
